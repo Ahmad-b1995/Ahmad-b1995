@@ -1,6 +1,1 @@
-- 👋 Hi, I’m @Ahmad-b1995
-- 👀 I’m interested in front-end development and new technologies.
--   I use Angular as my primary front-end development framework.
--   I also love and recommend arch linux for every fan of simplicity and free-bloat software and operating system.
-- 🌱 I’m currently improving my javascript skills and working to have a deeper understanding for creating clever and problem-solving algorithms.
-- 📫 You can reach me at my own website (www.ahmadcodes.com) or reach me through Email (ahmad.b1995@gmail.com).
+Hey there, I'm Ahmad, a computer enthusiast and a curious mind for whatever that's happening inside the CPU. I'm also a fan of retro computing and old electronics, I do front-end development using Angular I honestly I think I'm quite good at it.
