@@ -19,5 +19,5 @@ Contract & part-time engagements (10–25 hrs/week) · Remote · GMT+3
 ### Reach me
 
 - 🌐 [ahmadcodes.com](https://ahmadcodes.com)
-- 📬 [contact@ahmadcodes.com](mailto:contact@ahmadcodes.com)
+- 📬 [contact@ahmadcodes.com](mailto:ahmadbagher.tech@gmail.com)
 - 💼 [LinkedIn](https://www.linkedin.com/in/ahmad-bagheri/)
